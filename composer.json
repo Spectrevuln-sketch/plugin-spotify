@@ -1,0 +1,6 @@
+{
+    "require": {
+        "htmlburger/carbon-fields": "^3.3",
+        "jwilsson/spotify-web-api-php": "^5.0"
+    }
+}

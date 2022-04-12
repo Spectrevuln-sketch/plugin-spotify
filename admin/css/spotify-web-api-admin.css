@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ .cf-container__tabs-item button{
+     background: #000000 !important;
+     color: whitesmoke !important;
+}
+    .cf-container__tabs-item .cf-container__tabs-item--current button{
+       background: blue !important;
+    }
+
+    .cf-container__fields{
+        border: #bebebe solid 1px !important;
+    }
